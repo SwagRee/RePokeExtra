@@ -1,0 +1,17 @@
+name: RePokeExtra
+version: '2.7.3'
+main: io.github.swagree.pokeextra.Main
+commands:
+  rpe:
+    description: "宝可梦额外"
+  rgp:
+    description: "给宝可梦的指令"
+  rep:
+    description: "编辑宝可梦"
+  rdp:
+    description: "删除宝可梦"
+  rbp:
+    description: "让玩家和自定义的宝可梦对战"
+  rsp:
+    description: "生成自定义宝可梦"
+

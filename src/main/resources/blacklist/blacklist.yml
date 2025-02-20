@@ -1,0 +1,9 @@
+#禁止包含hu的宝可梦 因为有一些魔改宝可梦 想一键禁止 那就用这个hu试试看吧 不过也可能误杀一些其他的包含hu的
+pokemonContainName:
+  - "hu0"
+  - "hu1"
+  - "hu2"
+  - "hua"
+#你可以自己创建 xxx.yml 写入你要禁止的宝可梦 然后在如rgp的blacklist里 改成文件名xxx 然后就是读取xxx列表里的东西了
+pokemon:
+  - "皮卡丘"

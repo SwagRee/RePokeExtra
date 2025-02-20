@@ -1,0 +1,19 @@
+#限制哪些世界骑乘宝可梦
+limitRidePoke:
+  enable: false
+  message: "&4对不起这个世界不可以骑宝可梦哦！"
+  world:
+    - "zc"
+#限制哪些世界限制释放宝可梦
+limitSendOutWorld:
+  enable: false
+  message: "&4对不起不可以在这个世界放出宝可梦哦！"
+  world:
+    - "zc"
+#限制释放数量的世界和限制的数量 num是数量 world是世界
+limitSendOutNumWorld:
+  enable: false
+  num: 1
+  message: "&c对不起已经达到你释放宝可梦的上限了"
+  world:
+    - "zc"
